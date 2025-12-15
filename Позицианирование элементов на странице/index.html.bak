@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Галерея животных</title>
+<link href="styles.css" rel="stylesheet">
+</head>
+<body>
+<header>
+<h1>Галерея животных <img src="images/hat.png" width="130" height="140" alt="Галерея шляп" class="badge"></h1>
+<nav>
+	<ul>
+		<li><a href="#">Главная</a></li>
+		<li><a href="#">животные</a></li>
+		<li><a href="#">О нас</a></li>
+		<li><a href="#">Контакты</a></li>
+	</ul>
+</nav>
+</header>
+<div class="gallery">
+<figure>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkBkhP_e3zNM0KWwZV8u_DLr0DRJbKC2Q5Ug&s" width="300" height="210" alt="Панама">
+<figcaption><strong>Панда.</strong> - это вид всеядных млекопитающих из семейства медвежьих, обитающий в горных лесах центрального Китая. Она известна своей характерной черно-белой окраской, массивным телом и питанием, на 99% состоящим из бамбука.</figcaption>
+</figure>
+<figure>
+<img src="https://taigaclothing.ru/images/foxx_taiga_odejda.jpg" width="300" height="210" alt="Капор">
+<figcaption><strong>Лиса.</strong> - это хищное млекопитающее из семейства псовых, известное своей хитростью и приспособляемостью к разным условиям обитания.</figcaption>
+</figure>
+<figure>
+<img src="https://img51994.kanal-o.ru/img/2023-10-02/fmt_81_24_joshua-j-cotten-c1bjxqcqba0-unsplash.jpg" width="300" height="210" alt="Розовая шляпа">
+<figcaption><strong>Енот - полоскун.</strong> - это всеядное хищное млекопитающее Северной Америки, которое из-за своей любознательности и способности приспосабливаться к разным условиям успешно распространилось в других регионах, включая Россию.</figcaption>
+</figure>
+<figure>
+<img src="https://cs13.pikabu.ru/post_img/big/2023/09/15/0/169472735919641935.jpg" width="300" height="210" alt="Много шляп">
+<figcaption><strong>Белка.</strong> - это небольшой грызун, который живёт на деревьях и питается семенами, орехами, грибами, насекомыми и птичьими яйцами.</figcaption>
+</figure>
+<figure>
+<img src="https://www.oxotnika.net/image/data/KORMUSKIII/Bs9QLmy6c0GKAKnlk9tXLEYP58cbelYr.jpg" width="300" height="210" alt="Шляпа">
+<figcaption><strong>Лось.</strong> - это самый крупный представитель семейства оленевых, обитающий в лесной полосе России. Он обладает мощным телосложением, длинными ногами и характерными рогами у самцов.</figcaption>
+</figure>
+<figure>
+<img src="https://cdni-vm.servicecdn.ru/2023.06/original/1200_649c495d82682c1a5f1fdf04.jpg" width="300" height="210" alt="Другой капор">
+<figcaption><strong>Капибара.</strong> - это самый крупный в мире полуводный грызун из Южной Америки, внешне напоминающий большую морскую свинку.</figcaption>
+</figure>
+<figure>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpWsBEsEONwZo_5ViVBp19Fa4mp9q7oxurqg&s" width="300" height="210" alt="Дурень в шляпе">
+<figcaption><strong>Волк.</strong> - это крупное хищное млекопитающее из рода Canis, живущее стаями и известное своей выносливостью и острым обонянием.</figcaption>
+</figure>
+<figure>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcUVI4spTjMlt41ryRaPqEeNmAiU-6agSlkw&s" width="300" height="210" alt="Клевая шляпа">
+<figcaption><strong>Слон.</strong> - крупнейшие наземные животные на планете, обитающие в Африке и Азии. </figcaption>
+</figure>
+<figure>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCLCqlFArdm1Ll7oPSWSRqF-nc-Va0ZrZUgQ&s" width="300" height="210" alt="Крутые шляпы">
+<figcaption><strong>Бегемот.</strong>  - крупное полуводное млекопитающее из семейства бегемотовых, обитающее в Африке. Существует два вида: обыкновенный, или речной, бегемот и карликовый бегемот.</figcaption>
+</figure>
+</div>
+<footer>
+<div class="copyright">
+<p>Спевакин 2025, Галерея животных</p>
+</div>
+</footer>
+</body>
+</html>
